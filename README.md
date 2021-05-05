@@ -1,0 +1,2 @@
+# Infinitum
+Coin info
